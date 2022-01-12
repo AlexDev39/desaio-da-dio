@@ -1,6 +1,6 @@
 # desaio-da-dio
-Projeto Inter do Bootcamp
+Projeto do Bootcamp da DIO
 
-Meu primeiro projeto para o bootcamp do banco Inter
+Meu primeiro projeto para o bootcamp da DIO
 
 [Faça você também um bootcamp na DIO](https://web.dio.me/home)
